@@ -1,0 +1,14 @@
+## Topnav single links
+## if you want to list an external url, use external_url instead of url. the theme will apply a different link base.
+topnav:
+- title: Topnav
+  items:
+    - title: Moodle
+      external_url: http://learnonline.canberra.edu.au/course/view.php?id=18626
+    - title: Blog
+      external_url: http://2017.exploringdigitalheritage.net/
+    - title: Slack
+      external_url: https://uc10154-2017.slack.com
+    - title: Trello
+      external_url: https://trello.com/uc10154
+
