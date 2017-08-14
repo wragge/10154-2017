@@ -4,25 +4,18 @@ entries:
 - title: Sidebar
   levels: one
   folders:
-
-  - title: Introduction
-    output: web
-    folderitems:
-    - title: Communication tools
-      url: /communications.html
-      output: web
-  - title: "Class project"
-    output: web
-    folderitems:
-    - title: Overview
-      url: /class-project-intro.html
-      output: web
   - title: "Module 1: The publics and politics of digital cultural heritage"
     output: web
     url: /module1-intro.html
     folderitems:
     - title: Introduction
       url: /module1-intro.html
+      output: web
+    - title: Hacking the web
+      url: /module1-hacking.html
+      output: web
+    - title: What changes?
+      url: /module1-changes.html
       output: web
   - title: "Module 2: What is this thing we call data?"
     output: web

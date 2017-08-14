@@ -1,17 +1,20 @@
 ---
-title: Introduction of Module 1
+title: "Module 1: The Politics and Publics of Digital Cultural Heritage"
 keywords: 
 last_updated: July 19, 2017
-tags: [introduction]
-summary: ""
 sidebar: home_sidebar
 permalink: module1-intro.html
 folder: module1
+toc: false
 ---
 
-In this module you will...
+### Sections
 
-By the end you should:
+* [Hacking the web](module1-hacking.html)
+* [What changes when...?](module1-changes.html)
 
-* Know this...
-* And this...
+
+### For your portfolio
+
+* In [X-Ray Goggles](module1-hacking.html#x-ray-goggles): Save a screenshot of your remixed page and the url to your 'published' version in your Portfolio.
+

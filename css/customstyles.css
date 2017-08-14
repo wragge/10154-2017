@@ -1203,3 +1203,22 @@ h4.panel-title {
         display:block !important;
     }
 }
+
+.bg-context {
+    padding: 15px;
+}
+
+pre {
+    overflow-x: auto;
+}
+
+pre code {
+    word-wrap: normal;
+    white-space: pre;
+}
+
+.img-example {
+    border: 1px solid #DFD7CA;
+    padding: 10px;
+    margin-bottom: 10px;
+}

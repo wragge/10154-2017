@@ -7,4 +7,8 @@ permalink: index.html
 summary: 
 ---
 
+### Modules
+
+* [Module 1: Collections and Communities](module1-intro.html)
+
 
