@@ -1,14 +1,12 @@
 ---
 title: "UC10154: Exploring Digital Heritage" 
-keywords: 
-tags: 
 sidebar: home_sidebar
 permalink: index.html
-summary: 
+toc: false
 ---
 
 ### Modules
 
-* [Module 1: Collections and Communities](module1-intro.html)
+* [Module 1: The Publics and Politics of Digital Cultural Collections](module1-intro.html)
 
 

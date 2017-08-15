@@ -122,7 +122,7 @@ If you haven't already visit [Zooniverse](https://www.zooniverse.org/) -- the ho
 The Atlas of Living Australia also has a [digital volunteer site](https://volunteer.ala.org.au/) where you can work on a variety of Australian citizen science projects, including the transcription of historical expedition journals.
 
 {: .bg-context .bg-warning}
-**Portfolio alert!** I want you to choose one crowdsourcing project and invest some time in it -- a minimum of an hour. Reflecting on the issues, questions and readings above, I want you to write a short 500 word essay on the experience. What made you interested? What did you enjoy? What did you find frustrating?
+**Portfolio alert!** I want you to choose one crowdsourcing project and invest some time in it -- a minimum of an hour. Reflecting on the issues, questions and readings above, I want you to write a short 500 word (not including Harvard-style references if required) essay on the experience. What made you interested? What did you enjoy? What did you find frustrating? 
 
 ### The politics of digital heritage
 
@@ -142,5 +142,8 @@ Think about the three themes in Thomas's talk and how they might relate to the s
 * Ethics -- what are our responsibilities?
 * Empowerment -- how can we share what we know?
 * Agency -- who has the power and why?
+
+{: .bg-context .bg-warning}
+**Portfolio alert!** How might issues of ethics, empowerment, and agency arise in our own class project? I'd like you to write a minimum of 200 words on how we might address these issues as we develop our project. What do we need to be careful of, and why?
 
 
