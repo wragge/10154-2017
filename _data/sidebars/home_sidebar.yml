@@ -23,6 +23,12 @@ entries:
     - title: Introduction
       url: /module2-intro.html
       output: web
+    - title: Finding and cleaning data
+      url: /module2-finding-cleaning.html
+      output: web
+    - title: Making and extracting data
+      url: /module2-making-extracting.html
+      output: web
   - title: "Module 3: Transformation and analysis"
     output: web
     folderitems:
