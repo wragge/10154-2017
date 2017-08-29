@@ -1,6 +1,5 @@
 ---
-title: Module 2: What is this thing we call data?
-keywords: 
+title: "Module 2: What is this thing we call data?"
 last_updated: July 19, 2017
 sidebar: home_sidebar
 permalink: module2-intro.html
