@@ -4,6 +4,7 @@ last_updated: July 19, 2017
 sidebar: home_sidebar
 permalink: module2-intro.html
 folder: module2
+toc: false
 ---
 
 ### Sections
