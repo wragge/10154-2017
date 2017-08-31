@@ -10,7 +10,7 @@ toc: false
 ### Sections
 
 * [Finding and cleaning data](module2-finding-cleaning.html)
-* Making and extracting data (coming soon...)
+* [Making and extracting data](module2-making-extracting.html)
 
 
 ### Portfolio checklist
