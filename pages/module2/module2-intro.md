@@ -25,7 +25,9 @@ Here's a summary of all the tasks and activities you should have added to your p
 
 * [Cleaning with Open Refine](module2-finding-cleaning.html#cleaning-data): Once you've finished the tutorial export your cleaned-up dataset as a CSV file (see section 10) and attach it as an appendix to your portfolio.
 
-* more to come...
+* [Finding faces](module2-making-extracting.html#finding-faces): Save the screenshot of your successfully detected face in your portfolio.
+
+* [Issues and dangers](module2-making-extracting.html#issues-and-dangers): Based on the readings and example above I'd like you to reflect (minimum 500 words, not including Harvard style references) on the sorts of data these technologies generate, and how they might be used. Are you excited or concerned? Clearing there are interesting possibilities, but how do we take advantage of them while remaining wary of their assumptions?
 
 
 
