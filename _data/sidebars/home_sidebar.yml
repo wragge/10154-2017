@@ -35,6 +35,12 @@ entries:
     - title: Introduction
       url: /module3-intro.html
       output: web
+    - title: Transforming texts
+      url: /module3-transform.html
+      output: web
+    - title: Analysing and visualising data
+      url: /module3-analyse.html
+      output: web
   - title: "Module 4: Mobilisation and intervention"
     output: web
     folderitems:
