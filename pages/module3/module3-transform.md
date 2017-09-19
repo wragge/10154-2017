@@ -220,7 +220,9 @@ Here's a video that teaches you Overview in 90 seconds!
 
 Once it's done, you document set will open with yet another word cloud. Yay! But it's really the 'tree' view that is most interesting.
 
-* Click on the **Tree** tab.
+* Click on the **Add view** tab and select 'Tree'. 
+
+* Give your tree a name and then click on the **Create Tree** button.
 
 * The tree view starts with a box representing all of the documents, and provides examples of some words that are common across the collection. As you move down the tree you'll see it subdivides the collection into clusters based on the similarity of their language.
 
