@@ -1,6 +1,6 @@
 ---
 title: "Module 4: Maps and mobilisations"
-last_updated: October 2, 2017
+last_updated: October 1, 2017
 sidebar: home_sidebar
 permalink: module4-intro.html
 folder: module4
