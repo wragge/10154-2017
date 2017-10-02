@@ -47,3 +47,9 @@ entries:
     - title: Introduction
       url: /module4-intro.html
       output: web
+    - title: Telling stories
+      url: /module4-maps.html
+      output: web
+    - title: Mobilising the digital
+      url: /module4-bots.html
+      output: web
